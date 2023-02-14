@@ -738,7 +738,7 @@ January 16, 2019</license>
 				<complete>
 					<size>859616969</size>
 					<checksum type="sha1">a1f224245056ddaa89651e379efbde7357b15046</checksum>
-					<url>x86-28_r05.zip</url>
+					<url>https://dl.google.com/android/repository/sys-img/android-automotive/x86-28_r05.zip</url>
 				</complete>
 			</archive>
 		</archives>
@@ -779,7 +779,7 @@ January 16, 2019</license>
 				<complete>
 					<size>923839106</size>
 					<checksum type="sha1">8fb2624c63c34a01c27dd8085277b2a5fb8d7fbc</checksum>
-					<url>x86-29_r01.zip</url>
+					<url>https://dl.google.com/android/repository/sys-img/android-automotive/x86-29_r01.zip</url>
 				</complete>
 			</archive>
 		</archives>
@@ -820,7 +820,7 @@ January 16, 2019</license>
 				<complete>
 					<size>1182802747</size>
 					<checksum type="sha1">7aec48997addb860118a98741458922bdec606c9</checksum>
-					<url>x86_64-30_r02.zip</url>
+					<url>https://dl.google.com/android/repository/sys-img/android-automotive/x86_64-30_r02.zip</url>
 				</complete>
 			</archive>
 		</archives>
@@ -861,7 +861,7 @@ January 16, 2019</license>
 				<complete>
 					<size>1012590435</size>
 					<checksum type="sha1">8f8309ae9e25b0c5eeb869bb0cb2515021073693</checksum>
-					<url>x86_64-32_r01.zip</url>
+					<url>https://dl.google.com/android/repository/sys-img/android-automotive/x86_64-32_r01.zip</url>
 				</complete>
 			</archive>
 		</archives>
@@ -902,7 +902,7 @@ January 16, 2019</license>
 				<complete>
 					<size>948247935</size>
 					<checksum type="sha1">1b07fe1bc8a4f5a9b249ff12d5bf142cb43a2093</checksum>
-					<url>arm64-v8a-32_r01.zip</url>
+					<url>https://dl.google.com/android/repository/sys-img/android-automotive/arm64-v8a-32_r01.zip</url>
 				</complete>
 			</archive>
 		</archives>

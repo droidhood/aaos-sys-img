@@ -726,7 +726,7 @@ January 16, 2019</license>
 				</min-revision>
 			</dependency>
 		</dependencies>
-		<channelRef ref="channel-1"/>
+		<channelRef ref="channel-0"/>
 		<archives>
 			<archive>
 				<!--Built on: Tue Jun 30 18:10:26 2020.-->
@@ -767,7 +767,7 @@ January 16, 2019</license>
 				</min-revision>
 			</dependency>
 		</dependencies>
-		<channelRef ref="channel-1"/>
+		<channelRef ref="channel-0"/>
 		<archives>
 			<archive>
 				<!--Built on: Fri Sep 25 15:46:32 2020.-->
@@ -808,7 +808,7 @@ January 16, 2019</license>
 				</min-revision>
 			</dependency>
 		</dependencies>
-		<channelRef ref="channel-1"/>
+		<channelRef ref="channel-0"/>
 		<archives>
 			<archive>
 				<!--Built on: Mon Aug  8 19:37:31 2022.-->
@@ -849,7 +849,7 @@ January 16, 2019</license>
 				</min-revision>
 			</dependency>
 		</dependencies>
-		<channelRef ref="channel-1"/>
+		<channelRef ref="channel-0"/>
 		<archives>
 			<archive>
 				<!--Built on: Mon Aug  8 16:50:11 2022.-->
@@ -890,7 +890,7 @@ January 16, 2019</license>
 				</min-revision>
 			</dependency>
 		</dependencies>
-		<channelRef ref="channel-1"/>
+		<channelRef ref="channel-0"/>
 		<archives>
 			<archive>
 				<!--Built on: Thu Aug 18 11:25:21 2022.-->

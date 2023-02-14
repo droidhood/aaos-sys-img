@@ -23,8 +23,8 @@ In Android Studio, open the SDK manager. Then go to the tab "SDK Update Sites" a
 
 Add the following information in the dialog that pops up:
 
-Name: droidhood
-URL: https://raw.githubusercontent.com/droidhood/aaos-sys-img/main/sys-img2-3.xml
+- Name: droidhood
+- URL: https://raw.githubusercontent.com/droidhood/aaos-sys-img/main/sys-img2-3.xml
 
 Click OK and then apply.
 

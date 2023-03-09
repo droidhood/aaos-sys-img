@@ -1025,4 +1025,112 @@ January 16, 2019</license>
 			</archive>
 		</archives>
 	</remotePackage>
+
+	<!-- Android Auto DHU -->
+	<remotePackage path="extras;google;auto">
+		<!--Generated from:p4 cl:438562115-->
+		<type-details xsi:type="generic:genericDetailsType"/>
+		<revision>
+			<major>2</major>
+			<minor>0</minor>
+		</revision>
+		<display-name>Android Auto Desktop Head Unit Emulator</display-name>
+		<uses-license ref="android-sdk-license"/>
+		<channelRef ref="channel-0"/>
+		<archives>
+			<archive>
+				<!--Built on: Thu Mar 31 14:25:17 2022.-->
+				<complete>
+					<size>7443824</size>
+					<checksum type="sha1">4e90abf932e512d6ca954b5126dd3a11e7a279e2</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-darwin-aarch64_r02.0.zip</url>
+				</complete>
+				<host-os>macosx</host-os>
+				<host-arch>aarch64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Mar 31 14:25:16 2022.-->
+				<complete>
+					<size>8030009</size>
+					<checksum type="sha1">d4d12a2173fef608ad62b94fed3a112bfa146759</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-darwin-x64_r02.0.zip</url>
+				</complete>
+				<host-os>macosx</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Mar 31 14:25:16 2022.-->
+				<complete>
+					<size>6895443</size>
+					<checksum type="sha1">77e3f80c2834e1fad33f56539ceb0215da408fab</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-linux-x64_r02.0.zip</url>
+				</complete>
+				<host-os>linux</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Mar 31 14:25:17 2022.-->
+				<complete>
+					<size>6801703</size>
+					<checksum type="sha1">680418d5aca256cce151eb7f9527294e95b6bb8a</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-windows-x64_r02.0.zip</url>
+				</complete>
+				<host-os>windows</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+		</archives>
+	</remotePackage>
+	<remotePackage path="extras;google;auto">
+		<!--Generated from:p4 cl:495648905-->
+		<type-details xsi:type="generic:genericDetailsType"/>
+		<revision>
+			<major>2</major>
+			<minor>1</minor>
+		</revision>
+		<display-name>Android Auto Desktop Head Unit Emulator</display-name>
+		<uses-license ref="android-sdk-license"/>
+		<channelRef ref="channel-0"/>
+		<archives>
+			<archive>
+				<!--Built on: Thu Dec 15 19:24:12 2022.-->
+				<complete>
+					<size>7572204</size>
+					<checksum type="sha1">edd9d9389ac511d5f28e47cdfbf54bbcd7294d7f</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-darwin-aarch64_r02.1.zip</url>
+				</complete>
+				<host-os>macosx</host-os>
+				<host-arch>aarch64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Dec 15 19:24:12 2022.-->
+				<complete>
+					<size>7797329</size>
+					<checksum type="sha1">4f8a3d3e32b27de1fc190d149039842e76a55bdd</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-darwin-x64_r02.1.zip</url>
+				</complete>
+				<host-os>macosx</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Dec 15 19:24:11 2022.-->
+				<complete>
+					<size>6927985</size>
+					<checksum type="sha1">5d87eb87a1421e59d528eac1f5cdd406c0b39f51</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-linux-x64_r02.1.zip</url>
+				</complete>
+				<host-os>linux</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+			<archive>
+				<!--Built on: Thu Dec 15 19:24:13 2022.-->
+				<complete>
+					<size>7012059</size>
+					<checksum type="sha1">c27bf84e59dda7b79315b6ca2a314063feffd6ac</checksum>
+					<url>https://dl.google.com/android/repository/desktop-head-unit-windows-x64_r02.1.zip</url>
+				</complete>
+				<host-os>windows</host-os>
+				<host-arch>x64</host-arch>
+			</archive>
+		</archives>
+	</remotePackage>
 </sys-img:sdk-sys-img>

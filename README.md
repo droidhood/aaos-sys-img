@@ -11,6 +11,9 @@ The following sites and car models are integrated here:
   - Android Automotive with Play Store - Android API 30 (x86_64)
   - Android Automotive with Play Store - Android API 32 (x86_64)
   - Android Automotive with Play Store - Android API 32 (arm64_v8a)
+
+  - Android Auto Desktop Head Unit - 2.0
+  - Android Auto Desktop Head Unit - 2.1
 - [Polestar](https://developer.polestar.com/sdk/polestar_emulator.xml)
   - Polestar 2 - Android API 28 (x86_64)
   - Polestar 2 - Android API 29 (x86_64)

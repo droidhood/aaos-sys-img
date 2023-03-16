@@ -1046,7 +1046,7 @@ January 16, 2019</license>
 			<major>1</major>
 		</revision>
 		<display-name>GM SUV MY22</display-name>
-		<uses-license ref="final-sdk-license"/>
+		<uses-license ref="gm-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">
 				<min-revision>
@@ -1084,7 +1084,7 @@ January 16, 2019</license>
 			<major>1</major>
 		</revision>
 		<display-name>GM SUV MY22</display-name>
-		<uses-license ref="final-sdk-license"/>
+		<uses-license ref="gm-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">
 				<min-revision>
@@ -1122,7 +1122,7 @@ January 16, 2019</license>
 			<major>1</major>
 		</revision>
 		<display-name>GM Cad Lyriq SUV MY23</display-name>
-		<uses-license ref="final-sdk-license"/>
+		<uses-license ref="gm-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">
 				<min-revision>
@@ -1160,7 +1160,7 @@ January 16, 2019</license>
 			<major>1</major>
 		</revision>
 		<display-name>GM SUV MY23</display-name>
-		<uses-license ref="final-sdk-license"/>
+		<uses-license ref="gm-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">
 				<min-revision>

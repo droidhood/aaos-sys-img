@@ -1109,7 +1109,7 @@ January 16, 2019</license>
 		<type-details xsi:type="sys-img:sysImgDetailsType">
 			<api-level>30</api-level>
 			<tag>
-				<id>android-automotive</id>
+				<id>android-automotive-playstore</id>
 				<display>GM Cad Lyriq SUV MY23</display>
 			</tag>
 			<vendor>

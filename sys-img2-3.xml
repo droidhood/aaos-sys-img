@@ -1137,7 +1137,7 @@ January 16, 2019</license>
 			<archive>
 				<complete>
 					<size>1939154495</size>
-					<checksum>0d06d2dedd8c9f7de401d6ad3f4001699936c099</checksum>
+					<!-- <checksum>0d06d2dedd8c9f7de401d6ad3f4001699936c099</checksum> -->
 					<url>https://developer.gm.com/downloads/L233_R_Cad_05-31-2022_1654055003.zip</url>
 				</complete>
 			</archive>

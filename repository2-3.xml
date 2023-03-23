@@ -2,7 +2,6 @@
 <sdk:sdk-repository xmlns:common="http://schemas.android.com/repository/android/common/02"
     xmlns:generic="http://schemas.android.com/repository/android/generic/02"
     xmlns:sdk="http://schemas.android.com/sdk/android/repo/repository2/03"
-    xmlns:sdk-common="http://schemas.android.com/sdk/android/repo/common/03"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <license id="android-sdk-license" type="text">Terms and Conditions
 

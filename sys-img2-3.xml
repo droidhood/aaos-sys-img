@@ -1035,7 +1035,7 @@ January 16, 2019</license>
 			<api-level>29</api-level>
 			<tag>
 				<id>android-automotive</id>
-				<display>GM SUV MY22</display>
+				<display>GM Yukon SUV MY22</display>
 			</tag>
 			<vendor>
 				<id>gm</id>
@@ -1046,7 +1046,7 @@ January 16, 2019</license>
 		<revision>
 			<major>1</major>
 		</revision>
-		<display-name>GM SUV MY22</display-name>
+		<display-name>GM Yukon SUV MY22</display-name>
 		<uses-license ref="final-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">
@@ -1073,7 +1073,7 @@ January 16, 2019</license>
 			<api-level>29</api-level>
 			<tag>
 				<id>android-automotive</id>
-				<display>GM SUV MY22</display>
+				<display>GM Hummer SUV MY22</display>
 			</tag>
 			<vendor>
 				<id>gm</id>
@@ -1084,7 +1084,7 @@ January 16, 2019</license>
 		<revision>
 			<major>1</major>
 		</revision>
-		<display-name>GM SUV MY22</display-name>
+		<display-name>GM Hummer SUV MY22</display-name>
 		<uses-license ref="final-sdk-license"/>
 		<dependencies>
 			<dependency path="emulator">

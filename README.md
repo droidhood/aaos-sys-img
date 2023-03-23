@@ -40,7 +40,7 @@ Add the following information in the dialog that pops up:
 
 - Android Auto
   - Name: droidhood (AA)
-  - URL: https://raw.githubusercontent.com/droidhood/aaos-sys-img/main/sys-img2-3.xml
+  - URL: https://raw.githubusercontent.com/droidhood/aaos-sys-img/main/repository2-3.xml
 
 
 Click OK and then apply.

@@ -1030,11 +1030,49 @@ January 16, 2019</license>
 
 	<!-- GM section -->
 	
-	<remotePackage path="system-images;android-29;final-automotive;x86_64">
+	<remotePackage path="system-images;android-29;gmc_yukon;x86_64">
 		<type-details xsi:type="sys-img:sysImgDetailsType">
 			<api-level>29</api-level>
 			<tag>
-				<id>android-automotive-playstore</id>
+				<id>android-automotive</id>
+				<display>GM SUV MY22</display>
+			</tag>
+			<vendor>
+				<id>gm</id>
+				<display>GM</display>
+			</vendor>
+			<abi>x86_64</abi>
+		</type-details>
+		<revision>
+			<major>1</major>
+		</revision>
+		<display-name>GM SUV MY22</display-name>
+		<uses-license ref="final-sdk-license"/>
+		<dependencies>
+			<dependency path="emulator">
+				<min-revision>
+					<major>29</major>
+					<minor>0</minor>
+					<micro>0</micro>
+				</min-revision>
+			</dependency>
+		</dependencies>
+		<channelRef ref="channel-0"/>
+		<archives>
+			<archive>
+				<complete>
+					<size>1812838623</size>
+					<!-- <checksum>35abec09e29ebd4f7ca4742edff633174c7b4b06</checksum> -->
+					<url>https://developer.gm.com/downloads/full_gminfo37_car_emu_user_03-04-2022_W152I-Y164.2.2-QIHM22BP-543_weekly.zip</url>
+				</complete>
+			</archive>
+		</archives>
+	</remotePackage>
+	<remotePackage path="system-images;android-29;gmc_hummer;x86_64">
+		<type-details xsi:type="sys-img:sysImgDetailsType">
+			<api-level>29</api-level>
+			<tag>
+				<id>android-automotive</id>
 				<display>GM SUV MY22</display>
 			</tag>
 			<vendor>
@@ -1072,7 +1110,7 @@ January 16, 2019</license>
 		<type-details xsi:type="sys-img:sysImgDetailsType">
 			<api-level>30</api-level>
 			<tag>
-				<id>android-automotive-playstore</id>
+				<id>android-automotive</id>
 				<display>GM Cad Lyriq SUV MY23</display>
 			</tag>
 			<vendor>
@@ -1110,7 +1148,7 @@ January 16, 2019</license>
 		<type-details xsi:type="sys-img:sysImgDetailsType">
 			<api-level>30</api-level>
 			<tag>
-				<id>android-automotive-playstore</id>
+				<id>android-automotive</id>
 				<display>GM SUV MY23</display>
 			</tag>
 			<vendor>

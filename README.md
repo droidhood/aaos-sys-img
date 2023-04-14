@@ -22,6 +22,8 @@ The following sites and car models are integrated here:
   - [MY23 GMC Hummer EV SUV](https://developer.gm.com/downloads/final_38_03042022_emulator.xml) - Android API 29 (x86_64)
   - [MY24 CADILLAC Lyriq Freeform SUV](https://developer.gm.com/downloads/final_ff_05302022_emulator.xml) - Android API 30 (x86_64)
   - [MY24 GM SUV](https://developer.gm.com/downloads/final_31XX_06272022_emulator.xml) - Android API 30 (x86_64)
+- [Honda](https://global.honda/cars-apps/index.html)
+  - Android API 30 (x86_64)
 
 ## Usage
 
